@@ -3,7 +3,7 @@
 - KVM
 - QEMU
 - Docker 
- - Docker-compose
+  - Docker-compose
 - Vagrant
 - Kubernet
 - Instalação de cluster sob vagrant 
@@ -14,4 +14,4 @@
 - Nginx SSL Let encrypted
   - Nginx proxy Manager Docket
   - Wireguard/Pihole
-  -Digital Ocean
+  - Digital Ocean
