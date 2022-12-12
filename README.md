@@ -1,5 +1,7 @@
 # Some Knowledge
 
+- Windows
+- LINUX
 - KVM
 - QEMU
 - Docker 
